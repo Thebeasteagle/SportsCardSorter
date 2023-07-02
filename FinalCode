@@ -1,6 +1,6 @@
-#Major Project by Nathan Teufer and Hayden Kuiper
-#5/9/22
-#"Sports Card Sorter"
+# Major Project by Nathan Teufer and Hayden Kuiper
+# 5/9/22
+# "Sports Card Sorter"
 
 import tkinter as tk
 from tkinter import *
